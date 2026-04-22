@@ -1,0 +1,11 @@
+{
+  "name": "devops-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for DevOps practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
