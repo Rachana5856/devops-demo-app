@@ -7,5 +7,17 @@
     "start": "node app.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachana5856/devops-demo-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Rachana5856/devops-demo-app/issues"
+  },
+  "homepage": "https://github.com/Rachana5856/devops-demo-app#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
